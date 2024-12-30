@@ -1,7 +1,7 @@
 
 ## **Signature Detection Using YOLOv5 and Detectron2**
 
-This project focuses on detecting signatures in images using two advanced deep learning models: YOLOv5 and Detectron2. The objective was to create a robust signature detection system capable of working with a small dataset. We had to chose between Yolo ad Detectron2 but since it was my first time using Detectron2, I have used both of them to learn more about this Detectron2.
+This project focuses on detecting signatures in images using two advanced deep learning models: YOLOv5 and Detectron2. The objective was to create a robust signature detection system capable of working with a small dataset. We had to chose between Yolo and Detectron2 but since I haven't worked with Detectron2 in the past, I have used both of them to learn more about Detectron2.
 
 ---
 
