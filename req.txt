@@ -1,0 +1,8 @@
+torch
+torchvision
+detectron2
+albumentations
+streamlit
+opencv-python
+matplotlib
+PyYAML
