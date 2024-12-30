@@ -100,11 +100,7 @@ Detectron2 Prediction: ![image](https://github.com/user-attachments/assets/f8d1d
 5. Follow the steps in the notebook to preprocess the dataset, train the models, and download the trained weights.
 
 #### **2. Streamlit Application**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/signature-detection.git
-   cd signature-detection
-   ```
+1. Clone this repository.
 2. Place the downloaded YOLOv5 and Detectron2 model weights in the `streamlit/saved_models/` folder.
 3. Install the required dependencies:
    ```bash
